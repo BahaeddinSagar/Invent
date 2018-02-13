@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "333824056334",
+    "firebase_url": "https://invent-b4a23.firebaseio.com",
+    "project_id": "invent-b4a23",
+    "storage_bucket": "invent-b4a23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333824056334:android:001c15edc910f297",
+        "android_client_info": {
+          "package_name": "sherif.aya.invent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333824056334-rc7bou9cvmre9eovasojalhsl1avm0h8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sherif.aya.invent",
+            "certificate_hash": "7f80f0a948feab7605eb6e48fcd45f25c13c0b41"
+          }
+        },
+        {
+          "client_id": "333824056334-3hal4g5e7s0usullvkj5p1d4npbc0cnu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnwrmmnwhLMM4Z_QXRbn44RZoeEPOIoXo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333824056334-3hal4g5e7s0usullvkj5p1d4npbc0cnu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
